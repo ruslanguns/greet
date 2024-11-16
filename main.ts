@@ -10,5 +10,5 @@ import { titleCase } from "jsr:@luca/cases@1.0.0";
  * @param name The name of the person to greet.
  */
 export function greet(name: string): string {
-  return `Hello, ${titleCase(name)}!`;
+  return `Hello, ${titleCase(name)}!!!`;
 }

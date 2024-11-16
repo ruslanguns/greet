@@ -1,6 +1,6 @@
 {
   "name": "@rus/greet",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "exports": "./main.ts",
   "imports": {
     "@luca/cases": "jsr:@luca/cases@^1.0.0",
