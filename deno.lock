@@ -3,6 +3,7 @@
   "specifiers": {
     "jsr:@luca/cases@*": "1.0.0",
     "jsr:@luca/cases@1": "1.0.0",
+    "jsr:@luca/cases@1.0.0": "1.0.0",
     "jsr:@std/assert@1": "1.0.8",
     "jsr:@std/internal@^1.0.5": "1.0.5"
   },
