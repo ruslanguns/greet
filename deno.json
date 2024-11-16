@@ -1,0 +1,9 @@
+{
+  "name": "@rus/greet",
+  "version": "0.0.1",
+  "exports": "./main.ts",
+  "imports": {
+    "@luca/cases": "jsr:@luca/cases@^1.0.0",
+    "@std/assert": "jsr:@std/assert@1"
+  }
+}
